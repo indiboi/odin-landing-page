@@ -49,7 +49,7 @@
 }
 
 .sign-button-1{
-    background-color: blue;
+    background-color: #3882f6;
     color: white;
     font-weight: bold;
 }
@@ -91,4 +91,58 @@
     height: 100px;
     border: 5px solid lightblue;
     
+}
+
+.box-content{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.boxc-1,.boxc-2,.boxc-3,.boxc-4{
+    padding-top: 11px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.boxc-1{
+    padding-left: 10px;
+}
+
+.boxc-4{
+    padding-right: 10px;
+}
+
+.quote{
+    padding-top: 40px;
+    padding-left: 30%;
+    font-size: 30px;
+    background-color: #e5e7eb;
+}
+
+.quoteby{
+    font-size: 20px;
+    background-color: #e5e7eb;
+    padding-right: 30%;
+    text-align: right;
+}
+
+.ctabox{
+    background-color: #3882f6;
+    width: 700px;
+    height: 100px;
+    margin-left: 450px;
+    margin-top: 20px;
+    
+}
+
+.bigcta{
+    font-size: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.smallcta{
+    padding-top: 20px;
+    font-size: 15px;
+    padding-left: 10px;
 }
